@@ -29,3 +29,11 @@ A Computer Vision project that uses **hand gestures** via webcam to launch apps 
 1. Clone this repo:
    ```bash
    git clone https://github.com/Aisiri11/Gesture_App_Launcher.git
+
+
+## 👤 Author
+
+**Aisiri S**  
+CSE Undergraduate | Enthusiastic about AI, Computer Vision, and Python Automation  
+[GitHub](https://github.com/Aisiri11) 
+
